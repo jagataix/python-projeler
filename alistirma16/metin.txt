@@ -1,9 +1,0 @@
-Ahmet,90,58,35
-Mehmet,59,78,34
-Çağatay,90,95,100
-Ali,46,73,80
-Kadir,12,47,32
-Metehan,54,73,86
-Mert,36,90,98
-Leyla,32,70,12
-Mecnun,52,93,100
