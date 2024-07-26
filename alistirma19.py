@@ -86,17 +86,3 @@ liste=list(zip(adlar,soyadlar))
 
 for i,j in liste:
     print(i,j)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
