@@ -58,16 +58,3 @@ def asal_bul():
                 
 for i in asal_bul():
     print(i)
-
-
-
-
-
-
-
-
-
-
-
-  
-
