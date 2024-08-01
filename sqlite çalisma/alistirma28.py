@@ -199,7 +199,7 @@ while True:
         
     elif secim == "4":
         
-        kaldır = input("Şarkının adını giriniz :")
+        kaldır = input("Ürünün adını giriniz :")
         
         ürünler.ürün_sil(kaldır) 
         
